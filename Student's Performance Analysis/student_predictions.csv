@@ -1,0 +1,6 @@
+Model,Prediction
+Linear Regression,66.11021331622099
+Decision Tree,72.0
+Random Forest,69.82
+SVM,69.18032989147721
+Logistic Regression,1.0
