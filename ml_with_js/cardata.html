@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Car Data Plot</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.8.4/dist/tf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.5.1/dist/tfjs-vis.umd.min.js"></script>
+  <style>
+    :root {
+      --primary-bg: #f0f2f5;
+      --card-bg: #ffffff;
+      --text-color: #222831;
+      --accent-color: #3f72af;
+      --shadow-color: rgba(0, 0, 0, 0.1);
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--primary-bg);
+      font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    h2 {
+      margin-top: 2rem;
+      color: var(--text-color);
+      font-size: 1.8rem;
+      letter-spacing: 0.5px;
+    }
+
+    #plot1 {
+      margin-top: 2rem;
+      background-color: var(--card-bg);
+      border-radius: 12px;
+      box-shadow: 0 4px 16px var(--shadow-color);
+      width: 90%;
+      max-width: 700px;
+      min-height: 400px;
+      padding: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow-x: auto;
+    }
+
+    @media (max-width: 600px) {
+      h2 {
+        font-size: 1.4rem;
+        text-align: center;
+        margin: 1.5rem 1rem 0 1rem;
+      }
+
+      #plot1 {
+        width: 95%;
+        min-height: 300px;
+        padding: 0.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Car Data: Horsepower vs MPG</h2>
+  <div id="plot1"></div>
+
+  <script>
+    // Extract valid data points
+    function extractData(obj) {
+      return { x: obj.Horsepower, y: obj.Miles_per_Gallon };
+    }
+
+    function removeErrors(obj) {
+      return obj.x != null && obj.y != null;
+    }
+
+    // Plot the data
+    function tfPlot(values, surface) {
+      tfvis.render.scatterplot(
+        { name: 'Horsepower vs MPG', tab: 'Charts', dom: surface },
+        { values: [values], series: ['Original'] },
+        {
+          xLabel: 'Horsepower',
+          yLabel: 'MPG',
+          width: surface.clientWidth - 40,
+          height: surface.clientHeight - 40,
+          zoomToFit: true,
+          seriesColors: ['#3f72af']
+        }
+      );
+    }
+
+    // Main execution
+    async function runTF() {
+      const jsonData = await fetch("cardata.json");
+      let values = await jsonData.json();
+      values = values.map(extractData).filter(removeErrors);
+
+      const surface1 = document.getElementById("plot1");
+      tfPlot(values, surface1);
+    }
+
+    runTF();
+  </script>
+
+</body>
+</html>

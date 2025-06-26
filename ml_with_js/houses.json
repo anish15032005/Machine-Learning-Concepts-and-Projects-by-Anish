@@ -1,0 +1,1603 @@
+[
+  {
+    "Avg. Area Income": 85680.2491,
+    "Avg. Area House Age": 7.532239,
+    "Avg. AreaNumberofRooms": 5.929475,
+    "Avg. Area Number of Bedrooms": 2.31,
+    "Area Population": 18768.022,
+    "Price": 438231.716
+  },
+  {
+    "Avg. Area Income": 49556.51621,
+    "Avg. Area House Age": 6.816563,
+    "Avg. AreaNumberofRooms": 3.114259,
+    "Avg. Area Number of Bedrooms": 2.03,
+    "Area Population": 28106.5896,
+    "Price": 359843.466
+  },
+  {
+    "Avg. Area Income": 93095.58553,
+    "Avg. Area House Age": 4.023256,
+    "Avg. AreaNumberofRooms": 5.441869,
+    "Avg. Area Number of Bedrooms": 2.69,
+    "Area Population": 25688.0461,
+    "Price": 1364436.143
+  },
+  {
+    "Avg. Area Income": 66142.91288,
+    "Avg. Area House Age": 10.761286,
+    "Avg. AreaNumberofRooms": 3.91227,
+    "Avg. Area Number of Bedrooms": 2.2,
+    "Area Population": 35010.1796,
+    "Price": 277853.599
+  },
+  {
+    "Avg. Area Income": 25400.6546,
+    "Avg. Area House Age": 1.234741,
+    "Avg. AreaNumberofRooms": 7.586822,
+    "Avg. Area Number of Bedrooms": 3.91,
+    "Area Population": 17913.5492,
+    "Price": 1002498.959
+  },
+  {
+    "Avg. Area Income": 25483.84611,
+    "Avg. Area House Age": 8.75186,
+    "Avg. AreaNumberofRooms": 5.915588,
+    "Avg. Area Number of Bedrooms": 3.77,
+    "Area Population": 12067.6396,
+    "Price": 502870.607
+  },
+  {
+    "Avg. Area Income": 49065.15317,
+    "Avg. Area House Age": 6.124732,
+    "Avg. AreaNumberofRooms": 7.520282,
+    "Avg. Area Number of Bedrooms": 4.31,
+    "Area Population": 36220.8398,
+    "Price": 969839.224
+  },
+  {
+    "Avg. Area Income": 28602.71546,
+    "Avg. Area House Age": 1.45744,
+    "Avg. AreaNumberofRooms": 6.798286,
+    "Avg. Area Number of Bedrooms": 2.08,
+    "Area Population": 6034.6636,
+    "Price": 1286260.143
+  },
+  {
+    "Avg. Area Income": 32031.37343,
+    "Avg. Area House Age": 6.325949,
+    "Avg. AreaNumberofRooms": 5.418035,
+    "Avg. Area Number of Bedrooms": 3.11,
+    "Area Population": 48468.6064,
+    "Price": 458547.42
+  },
+  {
+    "Avg. Area Income": 76830.24581,
+    "Avg. Area House Age": 5.989279,
+    "Avg. AreaNumberofRooms": 3.207863,
+    "Avg. Area Number of Bedrooms": 4.19,
+    "Area Population": 25185.5292,
+    "Price": 209107.705
+  },
+  {
+    "Avg. Area Income": 25028.59519,
+    "Avg. Area House Age": 3.974427,
+    "Avg. AreaNumberofRooms": 7.394654,
+    "Avg. Area Number of Bedrooms": 4.38,
+    "Area Population": 5818.2551,
+    "Price": 452229.894
+  },
+  {
+    "Avg. Area Income": 48258.23884,
+    "Avg. Area House Age": 2.741827,
+    "Avg. AreaNumberofRooms": 3.154523,
+    "Avg. Area Number of Bedrooms": 3.82,
+    "Area Population": 24243.884,
+    "Price": 247185.429
+  },
+  {
+    "Avg. Area Income": 41431.61802,
+    "Avg. Area House Age": 6.818498,
+    "Avg. AreaNumberofRooms": 3.736912,
+    "Avg. Area Number of Bedrooms": 4.59,
+    "Area Population": 6421.3204,
+    "Price": 543228.119
+  },
+  {
+    "Avg. Area Income": 31013.70276,
+    "Avg. Area House Age": 5.953017,
+    "Avg. AreaNumberofRooms": 5.506706,
+    "Avg. Area Number of Bedrooms": 3.53,
+    "Area Population": 10892.939,
+    "Price": 235609.492
+  },
+  {
+    "Avg. Area Income": 36501.80061,
+    "Avg. Area House Age": 2.299443,
+    "Avg. AreaNumberofRooms": 3.365184,
+    "Avg. Area Number of Bedrooms": 4.7,
+    "Area Population": 15382.1263,
+    "Price": 330338.583
+  },
+  {
+    "Avg. Area Income": 50154.25185,
+    "Avg. Area House Age": 8.508519,
+    "Avg. AreaNumberofRooms": 6.895792,
+    "Avg. Area Number of Bedrooms": 3.83,
+    "Area Population": 8816.5169,
+    "Price": 597106.056
+  },
+  {
+    "Avg. Area Income": 27906.78351,
+    "Avg. Area House Age": 2.282812,
+    "Avg. AreaNumberofRooms": 3.056633,
+    "Avg. Area Number of Bedrooms": 3.39,
+    "Area Population": 25239.604,
+    "Price": 525790.129
+  },
+  {
+    "Avg. Area Income": 82789.154,
+    "Avg. Area House Age": 9.528185,
+    "Avg. AreaNumberofRooms": 6.851851,
+    "Avg. Area Number of Bedrooms": 4.62,
+    "Area Population": 24104.9128,
+    "Price": 652063.271
+  },
+  {
+    "Avg. Area Income": 31938.46826,
+    "Avg. Area House Age": 8.355014,
+    "Avg. AreaNumberofRooms": 5.579093,
+    "Avg. Area Number of Bedrooms": 3.26,
+    "Area Population": 44993.1975,
+    "Price": 389111.975
+  },
+  {
+    "Avg. Area Income": 49666.08688,
+    "Avg. Area House Age": 10.727841,
+    "Avg. AreaNumberofRooms": 5.565758,
+    "Avg. Area Number of Bedrooms": 4.19,
+    "Area Population": 5715.6088,
+    "Price": 340648.02
+  },
+  {
+    "Avg. Area Income": 37082.86303,
+    "Avg. Area House Age": 5.650296,
+    "Avg. AreaNumberofRooms": 4.299078,
+    "Avg. Area Number of Bedrooms": 4.05,
+    "Area Population": 50239.9852,
+    "Price": 170334.69
+  },
+  {
+    "Avg. Area Income": 84592.47819,
+    "Avg. Area House Age": 4.331475,
+    "Avg. AreaNumberofRooms": 7.083122,
+    "Avg. Area Number of Bedrooms": 3.47,
+    "Area Population": 9477.6424,
+    "Price": 893449.037
+  },
+  {
+    "Avg. Area Income": 80051.36822,
+    "Avg. Area House Age": 8.347556,
+    "Avg. AreaNumberofRooms": 4.612198,
+    "Avg. Area Number of Bedrooms": 4.48,
+    "Area Population": 41505.5933,
+    "Price": 772725.166
+  },
+  {
+    "Avg. Area Income": 61265.9385,
+    "Avg. Area House Age": 3.600676,
+    "Avg. AreaNumberofRooms": 6.876418,
+    "Avg. Area Number of Bedrooms": 3.31,
+    "Area Population": 12400.6829,
+    "Price": 330428.064
+  },
+  {
+    "Avg. Area Income": 28362.43693,
+    "Avg. Area House Age": 7.454083,
+    "Avg. AreaNumberofRooms": 3.329676,
+    "Avg. Area Number of Bedrooms": 2.83,
+    "Area Population": 14257.3373,
+    "Price": 809778.782
+  },
+  {
+    "Avg. Area Income": 49617.08963,
+    "Avg. Area House Age": 9.844555,
+    "Avg. AreaNumberofRooms": 4.196974,
+    "Avg. Area Number of Bedrooms": 2.96,
+    "Area Population": 48158.5115,
+    "Price": 849667.363
+  },
+  {
+    "Avg. Area Income": 23818.7823,
+    "Avg. Area House Age": 9.109194,
+    "Avg. AreaNumberofRooms": 7.71255,
+    "Avg. Area Number of Bedrooms": 4.2,
+    "Area Population": 10873.7596,
+    "Price": 356495.411
+  },
+  {
+    "Avg. Area Income": 94185.6077,
+    "Avg. Area House Age": 6.082393,
+    "Avg. AreaNumberofRooms": 6.075513,
+    "Avg. Area Number of Bedrooms": 2.99,
+    "Area Population": 50813.1679,
+    "Price": 593559.829
+  },
+  {
+    "Avg. Area Income": 20160.71047,
+    "Avg. Area House Age": 10.301955,
+    "Avg. AreaNumberofRooms": 5.570012,
+    "Avg. Area Number of Bedrooms": 4.78,
+    "Area Population": 5817.8438,
+    "Price": 316002.853
+  },
+  {
+    "Avg. Area Income": 62313.30567,
+    "Avg. Area House Age": 2.134989,
+    "Avg. AreaNumberofRooms": 3.143737,
+    "Avg. Area Number of Bedrooms": 4.36,
+    "Area Population": 43999.4743,
+    "Price": 118540.279
+  },
+  {
+    "Avg. Area Income": 88900.49042,
+    "Avg. Area House Age": 10.740743,
+    "Avg. AreaNumberofRooms": 5.133168,
+    "Avg. Area Number of Bedrooms": 4.27,
+    "Area Population": 39500.6234,
+    "Price": 1120511.242
+  },
+  {
+    "Avg. Area Income": 27705.76592,
+    "Avg. Area House Age": 3.53384,
+    "Avg. AreaNumberofRooms": 4.478236,
+    "Avg. Area Number of Bedrooms": 4.95,
+    "Area Population": 40122.5079,
+    "Price": 1331313.879
+  },
+  {
+    "Avg. Area Income": 38740.37722,
+    "Avg. Area House Age": 6.13835,
+    "Avg. AreaNumberofRooms": 6.991317,
+    "Avg. Area Number of Bedrooms": 2.85,
+    "Area Population": 45448.6674,
+    "Price": 493144.881
+  },
+  {
+    "Avg. Area Income": 87707.38945,
+    "Avg. Area House Age": 4.255166,
+    "Avg. AreaNumberofRooms": 3.237913,
+    "Avg. Area Number of Bedrooms": 3.19,
+    "Area Population": 18420.2849,
+    "Price": 441411.076
+  },
+  {
+    "Avg. Area Income": 32894.93737,
+    "Avg. Area House Age": 1.758459,
+    "Avg. AreaNumberofRooms": 3.319949,
+    "Avg. Area Number of Bedrooms": 3.26,
+    "Area Population": 45954.6773,
+    "Price": 498403.471
+  },
+  {
+    "Avg. Area Income": 73804.29451,
+    "Avg. Area House Age": 1.623732,
+    "Avg. AreaNumberofRooms": 3.621942,
+    "Avg. Area Number of Bedrooms": 3.35,
+    "Area Population": 40253.8457,
+    "Price": 1184777.193
+  },
+  {
+    "Avg. Area Income": 66179.28408,
+    "Avg. Area House Age": 5.723848,
+    "Avg. AreaNumberofRooms": 7.841947,
+    "Avg. Area Number of Bedrooms": 3.86,
+    "Area Population": 31745.7657,
+    "Price": 1004975.254
+  },
+  {
+    "Avg. Area Income": 58391.49776,
+    "Avg. Area House Age": 7.883845,
+    "Avg. AreaNumberofRooms": 6.242706,
+    "Avg. Area Number of Bedrooms": 4.36,
+    "Area Population": 23834.3409,
+    "Price": 65340.031
+  },
+  {
+    "Avg. Area Income": 59336.0531,
+    "Avg. Area House Age": 6.222549,
+    "Avg. AreaNumberofRooms": 3.094689,
+    "Avg. Area Number of Bedrooms": 4.3,
+    "Area Population": 31892.7889,
+    "Price": 701635.015
+  },
+  {
+    "Avg. Area Income": 72057.41167,
+    "Avg. Area House Age": 4.115127,
+    "Avg. AreaNumberofRooms": 5.978539,
+    "Avg. Area Number of Bedrooms": 3.52,
+    "Area Population": 53769.1395,
+    "Price": 536923.07
+  },
+  {
+    "Avg. Area Income": 96244.87256,
+    "Avg. Area House Age": 7.429237,
+    "Avg. AreaNumberofRooms": 5.480245,
+    "Avg. Area Number of Bedrooms": 4.25,
+    "Area Population": 26277.4854,
+    "Price": 107521.019
+  },
+  {
+    "Avg. Area Income": 76114.51949,
+    "Avg. Area House Age": 8.437164,
+    "Avg. AreaNumberofRooms": 7.818126,
+    "Avg. Area Number of Bedrooms": 2.76,
+    "Area Population": 28670.1239,
+    "Price": 541211.25
+  },
+  {
+    "Avg. Area Income": 48283.03756,
+    "Avg. Area House Age": 7.16327,
+    "Avg. AreaNumberofRooms": 4.851655,
+    "Avg. Area Number of Bedrooms": 3.36,
+    "Area Population": 51873.0231,
+    "Price": 1149354.104
+  },
+  {
+    "Avg. Area Income": 76010.70312,
+    "Avg. Area House Age": 6.844847,
+    "Avg. AreaNumberofRooms": 3.269574,
+    "Avg. Area Number of Bedrooms": 4.13,
+    "Area Population": 13662.9188,
+    "Price": 984243.802
+  },
+  {
+    "Avg. Area Income": 60185.46297,
+    "Avg. Area House Age": 8.100769,
+    "Avg. AreaNumberofRooms": 6.627154,
+    "Avg. Area Number of Bedrooms": 2.12,
+    "Area Population": 29053.9478,
+    "Price": 645970.049
+  },
+  {
+    "Avg. Area Income": 34185.13492,
+    "Avg. Area House Age": 5.432617,
+    "Avg. AreaNumberofRooms": 5.204646,
+    "Avg. Area Number of Bedrooms": 4.93,
+    "Area Population": 54727.997,
+    "Price": 700978.817
+  },
+  {
+    "Avg. Area Income": 78243.43845,
+    "Avg. Area House Age": 5.82679,
+    "Avg. AreaNumberofRooms": 7.272241,
+    "Avg. Area Number of Bedrooms": 3.63,
+    "Area Population": 46330.6147,
+    "Price": 739339.371
+  },
+  {
+    "Avg. Area Income": 30580.39218,
+    "Avg. Area House Age": 10.508849,
+    "Avg. AreaNumberofRooms": 3.911224,
+    "Avg. Area Number of Bedrooms": 4.79,
+    "Area Population": 5227.2353,
+    "Price": 964185.783
+  },
+  {
+    "Avg. Area Income": 74696.96232,
+    "Avg. Area House Age": 2.266857,
+    "Avg. AreaNumberofRooms": 4.254918,
+    "Avg. Area Number of Bedrooms": 3.52,
+    "Area Population": 48848.1458,
+    "Price": 706080.316
+  },
+  {
+    "Avg. Area Income": 97989.08677,
+    "Avg. Area House Age": 7.990713,
+    "Avg. AreaNumberofRooms": 5.632895,
+    "Avg. Area Number of Bedrooms": 3.72,
+    "Area Population": 47563.4253,
+    "Price": 711831.719
+  },
+  {
+    "Avg. Area Income": 39346.3381,
+    "Avg. Area House Age": 8.839335,
+    "Avg. AreaNumberofRooms": 4.781874,
+    "Avg. Area Number of Bedrooms": 4.2,
+    "Area Population": 42508.0176,
+    "Price": 1058034.38
+  },
+  {
+    "Avg. Area Income": 75661.16207,
+    "Avg. Area House Age": 9.261654,
+    "Avg. AreaNumberofRooms": 3.141034,
+    "Avg. Area Number of Bedrooms": 3.13,
+    "Area Population": 24841.4028,
+    "Price": 1268460.105
+  },
+  {
+    "Avg. Area Income": 73045.20621,
+    "Avg. Area House Age": 7.635662,
+    "Avg. AreaNumberofRooms": 7.11364,
+    "Avg. Area Number of Bedrooms": 2.68,
+    "Area Population": 31354.8996,
+    "Price": 348572.341
+  },
+  {
+    "Avg. Area Income": 23088.31923,
+    "Avg. Area House Age": 8.835894,
+    "Avg. AreaNumberofRooms": 7.889592,
+    "Avg. Area Number of Bedrooms": 3.61,
+    "Area Population": 54391.9227,
+    "Price": 170118.328
+  },
+  {
+    "Avg. Area Income": 71882.22224,
+    "Avg. Area House Age": 10.570616,
+    "Avg. AreaNumberofRooms": 6.617993,
+    "Avg. Area Number of Bedrooms": 3.16,
+    "Area Population": 53033.3816,
+    "Price": 1109404.1
+  },
+  {
+    "Avg. Area Income": 21573.46979,
+    "Avg. Area House Age": 3.496596,
+    "Avg. AreaNumberofRooms": 6.648531,
+    "Avg. Area Number of Bedrooms": 4.27,
+    "Area Population": 39695.8982,
+    "Price": 1535103.289
+  },
+  {
+    "Avg. Area Income": 66303.02284,
+    "Avg. Area House Age": 1.24359,
+    "Avg. AreaNumberofRooms": 5.614916,
+    "Avg. Area Number of Bedrooms": 2.18,
+    "Area Population": 37076.9857,
+    "Price": 309346.46
+  },
+  {
+    "Avg. Area Income": 27586.54178,
+    "Avg. Area House Age": 9.835516,
+    "Avg. AreaNumberofRooms": 7.264534,
+    "Avg. Area Number of Bedrooms": 3.84,
+    "Area Population": 5895.7938,
+    "Price": 906097.647
+  },
+  {
+    "Avg. Area Income": 26496.95882,
+    "Avg. Area House Age": 5.729196,
+    "Avg. AreaNumberofRooms": 7.199598,
+    "Avg. Area Number of Bedrooms": 2.71,
+    "Area Population": 48600.2982,
+    "Price": 507125.785
+  },
+  {
+    "Avg. Area Income": 66630.65925,
+    "Avg. Area House Age": 1.78413,
+    "Avg. AreaNumberofRooms": 6.237658,
+    "Avg. Area Number of Bedrooms": 3.87,
+    "Area Population": 36692.115,
+    "Price": 900805.403
+  },
+  {
+    "Avg. Area Income": 56446.16395,
+    "Avg. Area House Age": 7.64989,
+    "Avg. AreaNumberofRooms": 3.433331,
+    "Avg. Area Number of Bedrooms": 4.59,
+    "Area Population": 32214.0757,
+    "Price": 333076.299
+  },
+  {
+    "Avg. Area Income": 63077.77594,
+    "Avg. Area House Age": 7.099487,
+    "Avg. AreaNumberofRooms": 6.981599,
+    "Avg. Area Number of Bedrooms": 3.24,
+    "Area Population": 29372.9047,
+    "Price": 668207.959
+  },
+  {
+    "Avg. Area Income": 42286.38955,
+    "Avg. Area House Age": 5.73061,
+    "Avg. AreaNumberofRooms": 6.200555,
+    "Avg. Area Number of Bedrooms": 3.93,
+    "Area Population": 41170.0877,
+    "Price": 1009103.181
+  },
+  {
+    "Avg. Area Income": 56465.64894,
+    "Avg. Area House Age": 8.630633,
+    "Avg. AreaNumberofRooms": 3.387249,
+    "Avg. Area Number of Bedrooms": 3.12,
+    "Area Population": 12984.4737,
+    "Price": 921774.773
+  },
+  {
+    "Avg. Area Income": 91647.16491,
+    "Avg. Area House Age": 10.951056,
+    "Avg. AreaNumberofRooms": 6.760421,
+    "Avg. Area Number of Bedrooms": 2.29,
+    "Area Population": 18857.5472,
+    "Price": 313520.857
+  },
+  {
+    "Avg. Area Income": 62735.175,
+    "Avg. Area House Age": 4.091475,
+    "Avg. AreaNumberofRooms": 3.202087,
+    "Avg. Area Number of Bedrooms": 4.67,
+    "Area Population": 45086.3,
+    "Price": 523472.025
+  },
+  {
+    "Avg. Area Income": 33648.46909,
+    "Avg. Area House Age": 10.551718,
+    "Avg. AreaNumberofRooms": 5.02193,
+    "Avg. Area Number of Bedrooms": 2.03,
+    "Area Population": 28275.2208,
+    "Price": 1473228.657
+  },
+  {
+    "Avg. Area Income": 76361.79155,
+    "Avg. Area House Age": 4.326235,
+    "Avg. AreaNumberofRooms": 6.60534,
+    "Avg. Area Number of Bedrooms": 2.48,
+    "Area Population": 18797.8246,
+    "Price": 1470700.958
+  },
+  {
+    "Avg. Area Income": 52730.42546,
+    "Avg. Area House Age": 2.064801,
+    "Avg. AreaNumberofRooms": 3.810271,
+    "Avg. Area Number of Bedrooms": 3.58,
+    "Area Population": 10563.9309,
+    "Price": 436325.334
+  },
+  {
+    "Avg. Area Income": 57833.32007,
+    "Avg. Area House Age": 6.078911,
+    "Avg. AreaNumberofRooms": 4.74963,
+    "Avg. Area Number of Bedrooms": 3.3,
+    "Area Population": 30972.5195,
+    "Price": 250876.853
+  },
+  {
+    "Avg. Area Income": 63935.12883,
+    "Avg. Area House Age": 9.11471,
+    "Avg. AreaNumberofRooms": 3.441389,
+    "Avg. Area Number of Bedrooms": 3.84,
+    "Area Population": 48704.6845,
+    "Price": 991040.853
+  },
+  {
+    "Avg. Area Income": 78564.51765,
+    "Avg. Area House Age": 6.544996,
+    "Avg. AreaNumberofRooms": 5.863329,
+    "Avg. Area Number of Bedrooms": 4.7,
+    "Area Population": 7305.9517,
+    "Price": 161846.506
+  },
+  {
+    "Avg. Area Income": 67181.71649,
+    "Avg. Area House Age": 9.118443,
+    "Avg. AreaNumberofRooms": 4.57217,
+    "Avg. Area Number of Bedrooms": 4.9,
+    "Area Population": 43328.8764,
+    "Price": 1381680.086
+  },
+  {
+    "Avg. Area Income": 34884.7011,
+    "Avg. Area House Age": 6.326704,
+    "Avg. AreaNumberofRooms": 3.678803,
+    "Avg. Area Number of Bedrooms": 4.06,
+    "Area Population": 41161.3882,
+    "Price": 941259.353
+  },
+  {
+    "Avg. Area Income": 89340.02865,
+    "Avg. Area House Age": 2.779014,
+    "Avg. AreaNumberofRooms": 7.566172,
+    "Avg. Area Number of Bedrooms": 3.86,
+    "Area Population": 9340.9492,
+    "Price": 1241961.419
+  },
+  {
+    "Avg. Area Income": 33583.83142,
+    "Avg. Area House Age": 6.900975,
+    "Avg. AreaNumberofRooms": 7.607166,
+    "Avg. Area Number of Bedrooms": 4.01,
+    "Area Population": 23003.2677,
+    "Price": 346024.103
+  },
+  {
+    "Avg. Area Income": 96994.38664,
+    "Avg. Area House Age": 10.083071,
+    "Avg. AreaNumberofRooms": 6.42018,
+    "Avg. Area Number of Bedrooms": 4.52,
+    "Area Population": 9491.7907,
+    "Price": 96747.824
+  },
+  {
+    "Avg. Area Income": 70049.05407,
+    "Avg. Area House Age": 2.905832,
+    "Avg. AreaNumberofRooms": 3.277427,
+    "Avg. Area Number of Bedrooms": 3.06,
+    "Area Population": 53095.5817,
+    "Price": 1436687.801
+  },
+  {
+    "Avg. Area Income": 33593.9521,
+    "Avg. Area House Age": 6.578591,
+    "Avg. AreaNumberofRooms": 3.511944,
+    "Avg. Area Number of Bedrooms": 4.15,
+    "Area Population": 21207.6652,
+    "Price": 479640.652
+  },
+  {
+    "Avg. Area Income": 29659.77688,
+    "Avg. Area House Age": 2.763157,
+    "Avg. AreaNumberofRooms": 4.981479,
+    "Avg. Area Number of Bedrooms": 4.98,
+    "Area Population": 51436.396,
+    "Price": 1498561.115
+  },
+  {
+    "Avg. Area Income": 67610.14471,
+    "Avg. Area House Age": 5.619491,
+    "Avg. AreaNumberofRooms": 7.607995,
+    "Avg. Area Number of Bedrooms": 3.15,
+    "Area Population": 5467.6255,
+    "Price": 1533480.742
+  },
+  {
+    "Avg. Area Income": 26619.46216,
+    "Avg. Area House Age": 7.655734,
+    "Avg. AreaNumberofRooms": 3.369608,
+    "Avg. Area Number of Bedrooms": 3.28,
+    "Area Population": 48266.169,
+    "Price": 1503008.821
+  },
+  {
+    "Avg. Area Income": 72787.85238,
+    "Avg. Area House Age": 5.783741,
+    "Avg. AreaNumberofRooms": 4.568344,
+    "Avg. Area Number of Bedrooms": 4.74,
+    "Area Population": 7040.9268,
+    "Price": 733274.971
+  },
+  {
+    "Avg. Area Income": 85933.23395,
+    "Avg. Area House Age": 4.894412,
+    "Avg. AreaNumberofRooms": 7.856317,
+    "Avg. Area Number of Bedrooms": 2.06,
+    "Area Population": 35851.1995,
+    "Price": 1351180.948
+  },
+  {
+    "Avg. Area Income": 78543.55785,
+    "Avg. Area House Age": 2.145309,
+    "Avg. AreaNumberofRooms": 7.402892,
+    "Avg. Area Number of Bedrooms": 2.86,
+    "Area Population": 37863.1759,
+    "Price": 268087.87
+  },
+  {
+    "Avg. Area Income": 32212.95038,
+    "Avg. Area House Age": 1.007373,
+    "Avg. AreaNumberofRooms": 3.657017,
+    "Avg. Area Number of Bedrooms": 4.22,
+    "Area Population": 22239.9328,
+    "Price": 526635.999
+  },
+  {
+    "Avg. Area Income": 89873.25514,
+    "Avg. Area House Age": 7.387292,
+    "Avg. AreaNumberofRooms": 7.668895,
+    "Avg. Area Number of Bedrooms": 3.33,
+    "Area Population": 39812.9939,
+    "Price": 1200037.175
+  },
+  {
+    "Avg. Area Income": 27258.35209,
+    "Avg. Area House Age": 1.320831,
+    "Avg. AreaNumberofRooms": 4.77423,
+    "Avg. Area Number of Bedrooms": 3.89,
+    "Area Population": 53537.9637,
+    "Price": 360869.531
+  },
+  {
+    "Avg. Area Income": 59452.13987,
+    "Avg. Area House Age": 3.087154,
+    "Avg. AreaNumberofRooms": 6.207607,
+    "Avg. Area Number of Bedrooms": 2.48,
+    "Area Population": 47482.837,
+    "Price": 892145.412
+  },
+  {
+    "Avg. Area Income": 59010.71708,
+    "Avg. Area House Age": 4.20813,
+    "Avg. AreaNumberofRooms": 4.658463,
+    "Avg. Area Number of Bedrooms": 2.54,
+    "Area Population": 17137.3908,
+    "Price": 959882.464
+  },
+  {
+    "Avg. Area Income": 58361.18578,
+    "Avg. Area House Age": 7.933028,
+    "Avg. AreaNumberofRooms": 6.400476,
+    "Avg. Area Number of Bedrooms": 4.2,
+    "Area Population": 42848.5372,
+    "Price": 148411.754
+  },
+  {
+    "Avg. Area Income": 27279.92796,
+    "Avg. Area House Age": 1.71061,
+    "Avg. AreaNumberofRooms": 7.018301,
+    "Avg. Area Number of Bedrooms": 4.45,
+    "Area Population": 52616.9999,
+    "Price": 1075271.812
+  },
+  {
+    "Avg. Area Income": 63743.69468,
+    "Avg. Area House Age": 8.223048,
+    "Avg. AreaNumberofRooms": 5.778048,
+    "Avg. Area Number of Bedrooms": 4.99,
+    "Area Population": 41254.6968,
+    "Price": 1280801.269
+  },
+  {
+    "Avg. Area Income": 97791.14319,
+    "Avg. Area House Age": 7.948339,
+    "Avg. AreaNumberofRooms": 4.797714,
+    "Avg. Area Number of Bedrooms": 2.76,
+    "Area Population": 6946.2233,
+    "Price": 106119.547
+  },
+  {
+    "Avg. Area Income": 58782.01948,
+    "Avg. Area House Age": 3.761777,
+    "Avg. AreaNumberofRooms": 6.686346,
+    "Avg. Area Number of Bedrooms": 2.87,
+    "Area Population": 15938.0472,
+    "Price": 408124.846
+  },
+  {
+    "Avg. Area Income": 32085.17208,
+    "Avg. Area House Age": 3.214362,
+    "Avg. AreaNumberofRooms": 4.715592,
+    "Avg. Area Number of Bedrooms": 3.36,
+    "Area Population": 43681.0773,
+    "Price": 1146110.47
+  },
+  {
+    "Avg. Area Income": 57484.24476,
+    "Avg. Area House Age": 2.652079,
+    "Avg. AreaNumberofRooms": 4.1843,
+    "Avg. Area Number of Bedrooms": 3.76,
+    "Area Population": 53149.4448,
+    "Price": 983276.772
+  },
+  {
+    "Avg. Area Income": 29141.48765,
+    "Avg. Area House Age": 2.869446,
+    "Avg. AreaNumberofRooms": 4.71592,
+    "Avg. Area Number of Bedrooms": 4.63,
+    "Area Population": 29716.2627,
+    "Price": 1256891.655
+  },
+  {
+    "Avg. Area Income": 43238.68726,
+    "Avg. Area House Age": 4.374144,
+    "Avg. AreaNumberofRooms": 6.782874,
+    "Avg. Area Number of Bedrooms": 4.61,
+    "Area Population": 54496.1374,
+    "Price": 732269.456
+  },
+  {
+    "Avg. Area Income": 41501.83491,
+    "Avg. Area House Age": 2.314746,
+    "Avg. AreaNumberofRooms": 3.105284,
+    "Avg. Area Number of Bedrooms": 2.97,
+    "Area Population": 11066.7949,
+    "Price": 252467.162
+  },
+
+{
+    "Avg. Area Income": 44501.86905,
+    "Avg. Area House Age": 8.006066,
+    "Avg. AreaNumberofRooms": 3.454758,
+    "Avg. Area Number of Bedrooms": 4.33,
+    "Area Population": 51507.3123,
+    "Price": 63415.187
+  },
+  {
+    "Avg. Area Income": 63989.56659,
+    "Avg. Area House Age": 3.554458,
+    "Avg. AreaNumberofRooms": 7.162539,
+    "Avg. Area Number of Bedrooms": 3.88,
+    "Area Population": 42408.5295,
+    "Price": 946308.338
+  },
+  {
+    "Avg. Area Income": 87036.48515,
+    "Avg. Area House Age": 1.439774,
+    "Avg. AreaNumberofRooms": 5.482675,
+    "Avg. Area Number of Bedrooms": 2.4,
+    "Area Population": 22657.1371,
+    "Price": 112917.194
+  },
+  {
+    "Avg. Area Income": 46664.1142,
+    "Avg. Area House Age": 9.072624,
+    "Avg. AreaNumberofRooms": 6.449443,
+    "Avg. Area Number of Bedrooms": 4.93,
+    "Area Population": 39830.0635,
+    "Price": 770641.111
+  },
+  {
+    "Avg. Area Income": 98324.30072,
+    "Avg. Area House Age": 3.779561,
+    "Avg. AreaNumberofRooms": 7.966393,
+    "Avg. Area Number of Bedrooms": 2.78,
+    "Area Population": 38992.6068,
+    "Price": 237554.324
+  },
+  {
+    "Avg. Area Income": 75636.91363,
+    "Avg. Area House Age": 7.581433,
+    "Avg. AreaNumberofRooms": 5.085213,
+    "Avg. Area Number of Bedrooms": 3.33,
+    "Area Population": 40568.7122,
+    "Price": 1051021.044
+  },
+  {
+    "Avg. Area Income": 43340.35242,
+    "Avg. Area House Age": 8.433157,
+    "Avg. AreaNumberofRooms": 4.950617,
+    "Avg. Area Number of Bedrooms": 3.41,
+    "Area Population": 48642.1857,
+    "Price": 604378.803
+  },
+  {
+    "Avg. Area Income": 28407.19801,
+    "Avg. Area House Age": 7.762299,
+    "Avg. AreaNumberofRooms": 4.286839,
+    "Avg. Area Number of Bedrooms": 4.06,
+    "Area Population": 45881.516,
+    "Price": 768431.118
+  },
+  {
+    "Avg. Area Income": 78443.04147,
+    "Avg. Area House Age": 5.84312,
+    "Avg. AreaNumberofRooms": 3.695348,
+    "Avg. Area Number of Bedrooms": 4.68,
+    "Area Population": 13779.9246,
+    "Price": 1301880.13
+  },
+  {
+    "Avg. Area Income": 84057.7527,
+    "Avg. Area House Age": 7.607467,
+    "Avg. AreaNumberofRooms": 4.785411,
+    "Avg. Area Number of Bedrooms": 3.73,
+    "Area Population": 40569.635,
+    "Price": 1079317.297
+  },
+  {
+    "Avg. Area Income": 70538.21296,
+    "Avg. Area House Age": 8.454974,
+    "Avg. AreaNumberofRooms": 5.793086,
+    "Avg. Area Number of Bedrooms": 3.18,
+    "Area Population": 14754.6866,
+    "Price": 1126615.194
+  },
+  {
+    "Avg. Area Income": 48524.14955,
+    "Avg. Area House Age": 3.267222,
+    "Avg. AreaNumberofRooms": 3.353524,
+    "Avg. Area Number of Bedrooms": 4.23,
+    "Area Population": 8807.6028,
+    "Price": 639291.654
+  },
+  {
+    "Avg. Area Income": 99698.71077,
+    "Avg. Area House Age": 4.853966,
+    "Avg. AreaNumberofRooms": 4.181966,
+    "Avg. Area Number of Bedrooms": 2.3,
+    "Area Population": 33224.4784,
+    "Price": 636930.619
+  },
+  {
+    "Avg. Area Income": 57182.73648,
+    "Avg. Area House Age": 10.70873,
+    "Avg. AreaNumberofRooms": 3.196294,
+    "Avg. Area Number of Bedrooms": 2.73,
+    "Area Population": 28907.9732,
+    "Price": 529445.413
+  },
+  {
+    "Avg. Area Income": 56135.77217,
+    "Avg. Area House Age": 8.075467,
+    "Avg. AreaNumberofRooms": 3.752671,
+    "Avg. Area Number of Bedrooms": 4.35,
+    "Area Population": 34244.5927,
+    "Price": 756685.211
+  },
+  {
+    "Avg. Area Income": 58317.32362,
+    "Avg. Area House Age": 1.328014,
+    "Avg. AreaNumberofRooms": 6.060846,
+    "Avg. Area Number of Bedrooms": 3.71,
+    "Area Population": 42927.3642,
+    "Price": 641425.875
+  },
+  {
+    "Avg. Area Income": 98537.42948,
+    "Avg. Area House Age": 4.231979,
+    "Avg. AreaNumberofRooms": 7.526415,
+    "Avg. Area Number of Bedrooms": 4.05,
+    "Area Population": 39273.4689,
+    "Price": 448796.427
+  },
+  {
+    "Avg. Area Income": 85551.55019,
+    "Avg. Area House Age": 8.76524,
+    "Avg. AreaNumberofRooms": 3.108479,
+    "Avg. Area Number of Bedrooms": 2.47,
+    "Area Population": 38514.4075,
+    "Price": 54520.336
+  },
+  {
+    "Avg. Area Income": 21433.56024,
+    "Avg. Area House Age": 7.049388,
+    "Avg. AreaNumberofRooms": 6.044755,
+    "Avg. Area Number of Bedrooms": 2.69,
+    "Area Population": 23862.0374,
+    "Price": 810883.126
+  },
+  {
+    "Avg. Area Income": 57248.083,
+    "Avg. Area House Age": 1.213395,
+    "Avg. AreaNumberofRooms": 5.465849,
+    "Avg. Area Number of Bedrooms": 4.4,
+    "Area Population": 11161.7832,
+    "Price": 173986.324
+  },
+  {
+    "Avg. Area Income": 96946.46823,
+    "Avg. Area House Age": 8.35659,
+    "Avg. AreaNumberofRooms": 5.189128,
+    "Avg. Area Number of Bedrooms": 3.94,
+    "Area Population": 20429.8401,
+    "Price": 266588.343
+  },
+  {
+    "Avg. Area Income": 70641.50609,
+    "Avg. Area House Age": 8.632722,
+    "Avg. AreaNumberofRooms": 5.025934,
+    "Avg. Area Number of Bedrooms": 2.24,
+    "Area Population": 20989.4415,
+    "Price": 694504.635
+  },
+  {
+    "Avg. Area Income": 51805.28976,
+    "Avg. Area House Age": 2.655499,
+    "Avg. AreaNumberofRooms": 6.681341,
+    "Avg. Area Number of Bedrooms": 3.66,
+    "Area Population": 9348.8094,
+    "Price": 352804.349
+  },
+  {
+    "Avg. Area Income": 57355.08272,
+    "Avg. Area House Age": 6.260843,
+    "Avg. AreaNumberofRooms": 6.537929,
+    "Avg. Area Number of Bedrooms": 4.67,
+    "Area Population": 37789.5996,
+    "Price": 1055620.945
+  },
+  {
+    "Avg. Area Income": 27598.44855,
+    "Avg. Area House Age": 2.354356,
+    "Avg. AreaNumberofRooms": 7.993266,
+    "Avg. Area Number of Bedrooms": 3.09,
+    "Area Population": 24254.9214,
+    "Price": 1383680.843
+  },
+  {
+    "Avg. Area Income": 57015.61896,
+    "Avg. Area House Age": 7.080697,
+    "Avg. AreaNumberofRooms": 7.151231,
+    "Avg. Area Number of Bedrooms": 2.14,
+    "Area Population": 7248.3636,
+    "Price": 1274535.854
+  },
+  {
+    "Avg. Area Income": 86023.2547,
+    "Avg. Area House Age": 7.457959,
+    "Avg. AreaNumberofRooms": 7.030585,
+    "Avg. Area Number of Bedrooms": 3.12,
+    "Area Population": 27265.2011,
+    "Price": 1119695.281
+  },
+  {
+    "Avg. Area Income": 20409.00969,
+    "Avg. Area House Age": 10.985978,
+    "Avg. AreaNumberofRooms": 4.00183,
+    "Avg. Area Number of Bedrooms": 3.72,
+    "Area Population": 10545.4954,
+    "Price": 1456168.707
+  },
+  {
+    "Avg. Area Income": 46256.76779,
+    "Avg. Area House Age": 2.20898,
+    "Avg. AreaNumberofRooms": 5.161285,
+    "Avg. Area Number of Bedrooms": 2.28,
+    "Area Population": 31829.7847,
+    "Price": 792936.649
+  },
+  {
+    "Avg. Area Income": 80385.33414,
+    "Avg. Area House Age": 6.974499,
+    "Avg. AreaNumberofRooms": 5.016239,
+    "Avg. Area Number of Bedrooms": 3.75,
+    "Area Population": 46504.5092,
+    "Price": 1095213.393
+  },
+  {
+    "Avg. Area Income": 80942.22687,
+    "Avg. Area House Age": 1.594522,
+    "Avg. AreaNumberofRooms": 6.30531,
+    "Avg. Area Number of Bedrooms": 4.89,
+    "Area Population": 27793.1152,
+    "Price": 1081944.012
+  },
+  {
+    "Avg. Area Income": 99833.8817,
+    "Avg. Area House Age": 10.356803,
+    "Avg. AreaNumberofRooms": 5.065547,
+    "Avg. Area Number of Bedrooms": 2.91,
+    "Area Population": 51769.7668,
+    "Price": 116278.04
+  },
+  {
+    "Avg. Area Income": 66630.4787,
+    "Avg. Area House Age": 3.616784,
+    "Avg. AreaNumberofRooms": 7.182914,
+    "Avg. Area Number of Bedrooms": 4,
+    "Area Population": 41886.2018,
+    "Price": 936256.309
+  },
+  {
+    "Avg. Area Income": 96261.51918,
+    "Avg. Area House Age": 2.081563,
+    "Avg. AreaNumberofRooms": 6.724873,
+    "Avg. Area Number of Bedrooms": 3.93,
+    "Area Population": 8531.3489,
+    "Price": 1507841.451
+  },
+  {
+    "Avg. Area Income": 88268.94941,
+    "Avg. Area House Age": 8.503286,
+    "Avg. AreaNumberofRooms": 6.217354,
+    "Avg. Area Number of Bedrooms": 2.36,
+    "Area Population": 46947.0157,
+    "Price": 1277535.504
+  },
+  {
+    "Avg. Area Income": 54897.5125,
+    "Avg. Area House Age": 3.203571,
+    "Avg. AreaNumberofRooms": 7.52292,
+    "Avg. Area Number of Bedrooms": 4.28,
+    "Area Population": 42616.1331,
+    "Price": 755864.872
+  },
+  {
+    "Avg. Area Income": 65972.94971,
+    "Avg. Area House Age": 1.946132,
+    "Avg. AreaNumberofRooms": 7.240268,
+    "Avg. Area Number of Bedrooms": 2.18,
+    "Area Population": 12395.297,
+    "Price": 1540126.937
+  },
+  {
+    "Avg. Area Income": 57042.28092,
+    "Avg. Area House Age": 3.217991,
+    "Avg. AreaNumberofRooms": 3.497003,
+    "Avg. Area Number of Bedrooms": 4.53,
+    "Area Population": 50249.2247,
+    "Price": 185908.989
+  },
+  {
+    "Avg. Area Income": 79593.71858,
+    "Avg. Area House Age": 4.980164,
+    "Avg. AreaNumberofRooms": 5.527799,
+    "Avg. Area Number of Bedrooms": 2.75,
+    "Area Population": 8655.2955,
+    "Price": 1318195.905
+  },
+  {
+    "Avg. Area Income": 85862.51348,
+    "Avg. Area House Age": 8.448213,
+    "Avg. AreaNumberofRooms": 3.335509,
+    "Avg. Area Number of Bedrooms": 3.28,
+    "Area Population": 20615.3393,
+    "Price": 420564.004
+  },
+  {
+    "Avg. Area Income": 25870.19332,
+    "Avg. Area House Age": 8.943363,
+    "Avg. AreaNumberofRooms": 3.642588,
+    "Avg. Area Number of Bedrooms": 3.52,
+    "Area Population": 8613.4106,
+    "Price": 1204330.195
+  },
+  {
+    "Avg. Area Income": 92007.13344,
+    "Avg. Area House Age": 1.996491,
+    "Avg. AreaNumberofRooms": 7.931563,
+    "Avg. Area Number of Bedrooms": 2.14,
+    "Area Population": 39766.3538,
+    "Price": 750829.173
+  },
+  {
+    "Avg. Area Income": 64121.15368,
+    "Avg. Area House Age": 9.09882,
+    "Avg. AreaNumberofRooms": 6.476083,
+    "Avg. Area Number of Bedrooms": 3.74,
+    "Area Population": 22288.7971,
+    "Price": 900841.684
+  },
+  {
+    "Avg. Area Income": 95230.6578,
+    "Avg. Area House Age": 10.509146,
+    "Avg. AreaNumberofRooms": 5.033186,
+    "Avg. Area Number of Bedrooms": 4.16,
+    "Area Population": 48219.1911,
+    "Price": 932436.744
+  },
+  {
+    "Avg. Area Income": 48772.99397,
+    "Avg. Area House Age": 1.719377,
+    "Avg. AreaNumberofRooms": 4.264556,
+    "Avg. Area Number of Bedrooms": 3.81,
+    "Area Population": 11998.7892,
+    "Price": 977026.538
+  },
+  {
+    "Avg. Area Income": 24855.6585,
+    "Avg. Area House Age": 10.87482,
+    "Avg. AreaNumberofRooms": 6.053467,
+    "Avg. Area Number of Bedrooms": 3.36,
+    "Area Population": 35891.7967,
+    "Price": 473030.609
+  },
+  {
+    "Avg. Area Income": 82642.28934,
+    "Avg. Area House Age": 2.235511,
+    "Avg. AreaNumberofRooms": 6.708474,
+    "Avg. Area Number of Bedrooms": 4.62,
+    "Area Population": 20266.3062,
+    "Price": 281680.401
+  },
+  {
+    "Avg. Area Income": 52890.09097,
+    "Avg. Area House Age": 6.771391,
+    "Avg. AreaNumberofRooms": 4.941128,
+    "Avg. Area Number of Bedrooms": 4.19,
+    "Area Population": 25857.0343,
+    "Price": 417411.303
+  },
+  {
+    "Avg. Area Income": 46606.47397,
+    "Avg. Area House Age": 1.087458,
+    "Avg. AreaNumberofRooms": 6.843764,
+    "Avg. Area Number of Bedrooms": 4.59,
+    "Area Population": 32088.8422,
+    "Price": 82415.985
+  },
+  {
+    "Avg. Area Income": 48798.48313,
+    "Avg. Area House Age": 5.240316,
+    "Avg. AreaNumberofRooms": 7.276861,
+    "Avg. Area Number of Bedrooms": 3.66,
+    "Area Population": 18889.188,
+    "Price": 1443847.672
+  },
+  {
+    "Avg. Area Income": 96608.80446,
+    "Avg. Area House Age": 2.930455,
+    "Avg. AreaNumberofRooms": 3.281134,
+    "Avg. Area Number of Bedrooms": 3.04,
+    "Area Population": 9740.1506,
+    "Price": 879248.691
+  },
+  {
+    "Avg. Area Income": 64792.93922,
+    "Avg. Area House Age": 9.218044,
+    "Avg. AreaNumberofRooms": 6.180404,
+    "Avg. Area Number of Bedrooms": 2.09,
+    "Area Population": 32961.5591,
+    "Price": 222726.497
+  },
+  {
+    "Avg. Area Income": 28971.1624,
+    "Avg. Area House Age": 3.375397,
+    "Avg. AreaNumberofRooms": 6.280223,
+    "Avg. Area Number of Bedrooms": 3.39,
+    "Area Population": 31327.5226,
+    "Price": 167781.501
+  },
+  {
+    "Avg. Area Income": 67969.57058,
+    "Avg. Area House Age": 2.014184,
+    "Avg. AreaNumberofRooms": 3.368853,
+    "Avg. Area Number of Bedrooms": 5,
+    "Area Population": 10453.6698,
+    "Price": 1005987.444
+  },
+  {
+    "Avg. Area Income": 21006.46719,
+    "Avg. Area House Age": 9.435135,
+    "Avg. AreaNumberofRooms": 6.419628,
+    "Avg. Area Number of Bedrooms": 3.21,
+    "Area Population": 17768.4625,
+    "Price": 1285170.833
+  },
+  {
+    "Avg. Area Income": 38528.07674,
+    "Avg. Area House Age": 6.399636,
+    "Avg. AreaNumberofRooms": 4.078784,
+    "Avg. Area Number of Bedrooms": 4.58,
+    "Area Population": 28504.1057,
+    "Price": 858757.93
+  },
+  {
+    "Avg. Area Income": 55356.1355,
+    "Avg. Area House Age": 6.765877,
+    "Avg. AreaNumberofRooms": 7.404184,
+    "Avg. Area Number of Bedrooms": 2.47,
+    "Area Population": 40242.9655,
+    "Price": 526438.062
+  },
+  {
+    "Avg. Area Income": 79285.21486,
+    "Avg. Area House Age": 2.586047,
+    "Avg. AreaNumberofRooms": 4.194856,
+    "Avg. Area Number of Bedrooms": 4.77,
+    "Area Population": 11700.4022,
+    "Price": 521099.368
+  },
+  {
+    "Avg. Area Income": 52091.64696,
+    "Avg. Area House Age": 8.207556,
+    "Avg. AreaNumberofRooms": 7.278984,
+    "Avg. Area Number of Bedrooms": 4.34,
+    "Area Population": 22755.7366,
+    "Price": 1139375.998
+  },
+  {
+    "Avg. Area Income": 49246.62346,
+    "Avg. Area House Age": 2.062486,
+    "Avg. AreaNumberofRooms": 5.995086,
+    "Avg. Area Number of Bedrooms": 4.49,
+    "Area Population": 35056.4756,
+    "Price": 1309312.977
+  },
+  {
+    "Avg. Area Income": 63517.28217,
+    "Avg. Area House Age": 8.4239,
+    "Avg. AreaNumberofRooms": 4.678071,
+    "Avg. Area Number of Bedrooms": 3.92,
+    "Area Population": 46589.1238,
+    "Price": 533731.416
+  },
+  {
+    "Avg. Area Income": 62475.1473,
+    "Avg. Area House Age": 6.763169,
+    "Avg. AreaNumberofRooms": 5.6921,
+    "Avg. Area Number of Bedrooms": 4.45,
+    "Area Population": 37701.4923,
+    "Price": 541202.798
+  },
+  {
+    "Avg. Area Income": 22491.84561,
+    "Avg. Area House Age": 4.635391,
+    "Avg. AreaNumberofRooms": 4.391442,
+    "Avg. Area Number of Bedrooms": 3.49,
+    "Area Population": 12317.0549,
+    "Price": 617067.843
+  },
+  {
+    "Avg. Area Income": 55487.9208,
+    "Avg. Area House Age": 1.010058,
+    "Avg. AreaNumberofRooms": 3.557665,
+    "Avg. Area Number of Bedrooms": 4.58,
+    "Area Population": 46466.1054,
+    "Price": 566279.163
+  },
+  {
+    "Avg. Area Income": 35589.8883,
+    "Avg. Area House Age": 8.563122,
+    "Avg. AreaNumberofRooms": 3.014899,
+    "Avg. Area Number of Bedrooms": 3.19,
+    "Area Population": 35475.3898,
+    "Price": 70428.952
+  },
+  {
+    "Avg. Area Income": 23158.01223,
+    "Avg. Area House Age": 9.738214,
+    "Avg. AreaNumberofRooms": 7.34468,
+    "Avg. Area Number of Bedrooms": 3.07,
+    "Area Population": 12999.5613,
+    "Price": 679937.189
+  },
+  {
+    "Avg. Area Income": 84778.22826,
+    "Avg. Area House Age": 3.272733,
+    "Avg. AreaNumberofRooms": 3.291424,
+    "Avg. Area Number of Bedrooms": 3.7,
+    "Area Population": 34303.8907,
+    "Price": 344061.698
+  },
+  {
+    "Avg. Area Income": 74169.06392,
+    "Avg. Area House Age": 2.603409,
+    "Avg. AreaNumberofRooms": 7.955861,
+    "Avg. Area Number of Bedrooms": 4.74,
+    "Area Population": 46949.7952,
+    "Price": 1102934.866
+  },
+  {
+    "Avg. Area Income": 36057.21794,
+    "Avg. Area House Age": 7.011787,
+    "Avg. AreaNumberofRooms": 4.155548,
+    "Avg. Area Number of Bedrooms": 4.94,
+    "Area Population": 25269.0402,
+    "Price": 397929.296
+  },
+  {
+    "Avg. Area Income": 96878.70661,
+    "Avg. Area House Age": 2.318942,
+    "Avg. AreaNumberofRooms": 7.338036,
+    "Avg. Area Number of Bedrooms": 4.34,
+    "Area Population": 31031.9448,
+    "Price": 1048190.684
+  },
+  {
+    "Avg. Area Income": 28058.22577,
+    "Avg. Area House Age": 3.715237,
+    "Avg. AreaNumberofRooms": 4.35933,
+    "Avg. Area Number of Bedrooms": 4.39,
+    "Area Population": 48019.2132,
+    "Price": 965333.249
+  },
+  {
+    "Avg. Area Income": 95666.0051,
+    "Avg. Area House Age": 8.389691,
+    "Avg. AreaNumberofRooms": 6.362387,
+    "Avg. Area Number of Bedrooms": 2.55,
+    "Area Population": 48225.6006,
+    "Price": 529264.551
+  },
+  {
+    "Avg. Area Income": 32136.12237,
+    "Avg. Area House Age": 8.156933,
+    "Avg. AreaNumberofRooms": 4.195565,
+    "Avg. Area Number of Bedrooms": 2.65,
+    "Area Population": 31657.489,
+    "Price": 1324963.63
+  },
+  {
+    "Avg. Area Income": 87863.40269,
+    "Avg. Area House Age": 2.601974,
+    "Avg. AreaNumberofRooms": 3.724746,
+    "Avg. Area Number of Bedrooms": 4.52,
+    "Area Population": 19128.7967,
+    "Price": 261696.159
+  },
+  {
+    "Avg. Area Income": 28964.45695,
+    "Avg. Area House Age": 8.06663,
+    "Avg. AreaNumberofRooms": 5.622944,
+    "Avg. Area Number of Bedrooms": 4.59,
+    "Area Population": 45124.8964,
+    "Price": 1269342.238
+  },
+  {
+    "Avg. Area Income": 77216.79369,
+    "Avg. Area House Age": 7.057148,
+    "Avg. AreaNumberofRooms": 4.481587,
+    "Avg. Area Number of Bedrooms": 3.62,
+    "Area Population": 17922.2364,
+    "Price": 634992.052
+  },
+  {
+    "Avg. Area Income": 32496.58607,
+    "Avg. Area House Age": 5.396112,
+    "Avg. AreaNumberofRooms": 7.425447,
+    "Avg. Area Number of Bedrooms": 3.26,
+    "Area Population": 37024.6468,
+    "Price": 221917.23
+  },
+  {
+    "Avg. Area Income": 22943.19838,
+    "Avg. Area House Age": 7.902551,
+    "Avg. AreaNumberofRooms": 6.703969,
+    "Avg. Area Number of Bedrooms": 2.23,
+    "Area Population": 54452.6346,
+    "Price": 1030581.335
+  },
+  {
+    "Avg. Area Income": 77855.72899,
+    "Avg. Area House Age": 6.722269,
+    "Avg. AreaNumberofRooms": 5.667631,
+    "Avg. Area Number of Bedrooms": 4.23,
+    "Area Population": 30499.9084,
+    "Price": 87227.672
+  },
+  {
+    "Avg. Area Income": 99458.45107,
+    "Avg. Area House Age": 8.425156,
+    "Avg. AreaNumberofRooms": 4.910005,
+    "Avg. Area Number of Bedrooms": 3.11,
+    "Area Population": 35645.6962,
+    "Price": 944374.97
+  },
+  {
+    "Avg. Area Income": 50233.49184,
+    "Avg. Area House Age": 6.337542,
+    "Avg. AreaNumberofRooms": 3.485603,
+    "Avg. Area Number of Bedrooms": 4.53,
+    "Area Population": 18390.0436,
+    "Price": 77345.227
+  },
+  {
+    "Avg. Area Income": 99375.19782,
+    "Avg. Area House Age": 10.535482,
+    "Avg. AreaNumberofRooms": 7.501537,
+    "Avg. Area Number of Bedrooms": 2.13,
+    "Area Population": 7677.7499,
+    "Price": 458732.044
+  },
+  {
+    "Avg. Area Income": 42670.58376,
+    "Avg. Area House Age": 4.315435,
+    "Avg. AreaNumberofRooms": 4.890998,
+    "Avg. Area Number of Bedrooms": 2.59,
+    "Area Population": 12571.8668,
+    "Price": 1127116.604
+  },
+  {
+    "Avg. Area Income": 46686.09397,
+    "Avg. Area House Age": 5.037779,
+    "Avg. AreaNumberofRooms": 7.791115,
+    "Avg. Area Number of Bedrooms": 3.92,
+    "Area Population": 45979.4063,
+    "Price": 444623.258
+  },
+  {
+    "Avg. Area Income": 97164.15779,
+    "Avg. Area House Age": 4.60752,
+    "Avg. AreaNumberofRooms": 3.080162,
+    "Avg. Area Number of Bedrooms": 3.66,
+    "Area Population": 20187.2621,
+    "Price": 190803.071
+  },
+  {
+    "Avg. Area Income": 80757.50916,
+    "Avg. Area House Age": 8.14488,
+    "Avg. AreaNumberofRooms": 5.330157,
+    "Avg. Area Number of Bedrooms": 3.34,
+    "Area Population": 15503.1859,
+    "Price": 325291.457
+  },
+  {
+    "Avg. Area Income": 67389.49346,
+    "Avg. Area House Age": 4.172152,
+    "Avg. AreaNumberofRooms": 7.112068,
+    "Avg. Area Number of Bedrooms": 3.42,
+    "Area Population": 29024.2828,
+    "Price": 256149.602
+  },
+  {
+    "Avg. Area Income": 58488.10326,
+    "Avg. Area House Age": 4.841188,
+    "Avg. AreaNumberofRooms": 7.814584,
+    "Avg. Area Number of Bedrooms": 2.72,
+    "Area Population": 48051.2791,
+    "Price": 581196.606
+  },
+  {
+    "Avg. Area Income": 72569.34341,
+    "Avg. Area House Age": 4.104894,
+    "Avg. AreaNumberofRooms": 4.52077,
+    "Avg. Area Number of Bedrooms": 4.92,
+    "Area Population": 27356.3241,
+    "Price": 853526.165
+  },
+  {
+    "Avg. Area Income": 29499.93987,
+    "Avg. Area House Age": 4.328727,
+    "Avg. AreaNumberofRooms": 5.903763,
+    "Avg. Area Number of Bedrooms": 2.61,
+    "Area Population": 54334.099,
+    "Price": 557994.938
+  },
+  {
+    "Avg. Area Income": 92470.81093,
+    "Avg. Area House Age": 2.694492,
+    "Avg. AreaNumberofRooms": 4.695849,
+    "Avg. Area Number of Bedrooms": 3.95,
+    "Area Population": 50080.9484,
+    "Price": 185696.234
+  },
+  {
+    "Avg. Area Income": 80566.09333,
+    "Avg. Area House Age": 8.619991,
+    "Avg. AreaNumberofRooms": 7.408695,
+    "Avg. Area Number of Bedrooms": 3.69,
+    "Area Population": 31950.8479,
+    "Price": 541016.142
+  },
+  {
+    "Avg. Area Income": 51483.45703,
+    "Avg. Area House Age": 3.08778,
+    "Avg. AreaNumberofRooms": 6.951609,
+    "Avg. Area Number of Bedrooms": 3.28,
+    "Area Population": 39486.9381,
+    "Price": 151104.045
+  },
+  {
+    "Avg. Area Income": 49219.53188,
+    "Avg. Area House Age": 8.607282,
+    "Avg. AreaNumberofRooms": 7.347235,
+    "Avg. Area Number of Bedrooms": 2.69,
+    "Area Population": 27930.9235,
+    "Price": 164250.904
+  },
+  {
+    "Avg. Area Income": 56564.79907,
+    "Avg. Area House Age": 5.471867,
+    "Avg. AreaNumberofRooms": 7.490077,
+    "Avg. Area Number of Bedrooms": 3.09,
+    "Area Population": 39812.2838,
+    "Price": 1038762.428
+  },
+  {
+    "Avg. Area Income": 69844.74678,
+    "Avg. Area House Age": 7.933721,
+    "Avg. AreaNumberofRooms": 5.130082,
+    "Avg. Area Number of Bedrooms": 2.11,
+    "Area Population": 21015.7276,
+    "Price": 174498.362
+  },
+  {
+    "Avg. Area Income": 58323.80315,
+    "Avg. Area House Age": 8.668877,
+    "Avg. AreaNumberofRooms": 5.525337,
+    "Avg. Area Number of Bedrooms": 3.57,
+    "Area Population": 28569.8968,
+    "Price": 754641.436
+  },
+  {
+    "Avg. Area Income": 59407.35336,
+    "Avg. Area House Age": 3.4733,
+    "Avg. AreaNumberofRooms": 4.264516,
+    "Avg. Area Number of Bedrooms": 2.21,
+    "Area Population": 53138.0561,
+    "Price": 1101272.215
+  },
+  {
+    "Avg. Area Income": 34264.1488,
+    "Avg. Area House Age": 2.971207,
+    "Avg. AreaNumberofRooms": 5.416829,
+    "Avg. Area Number of Bedrooms": 3.41,
+    "Area Population": 48684.4043,
+    "Price": 320972.05
+  },
+  {
+    "Avg. Area Income": 45257.49807,
+    "Avg. Area House Age": 6.15514,
+    "Avg. AreaNumberofRooms": 5.881169,
+    "Avg. Area Number of Bedrooms": 4.47,
+    "Area Population": 16630.1565,
+    "Price": 349991.999
+  }
+]

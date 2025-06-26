@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<body>
+    <div id = "myPlot", style ="width:100%;max-width:700px"></div>
+    <script>
+        let exp = "Math.sin(x)";
+
+        //Generate values
+        const Xvalues = [];
+        const Yvalues = [];
+        for(let x = 0; x <= 10; x+= 0.1){
+            Xvalues.push(x);
+            Yvalues.push(eval(exp))
+        }
+
+        //Display using plotly
+        const data = [{x:Xvalues, y:Yvalues, mode : "lines"}];
+        const layout = {title: "y = " + exp};
+        Plotly.newPlot("myPlot", data, layout);
+
+    </script>
+</body>
+</html>

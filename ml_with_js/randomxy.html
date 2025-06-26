@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Custom Scatter Plot</title>
+</head>
+<body style="margin:0; display:flex; justify-content:center; align-items:center; height:100vh;">
+  <canvas id="myCanvas" width="400" height="400" style="border:1px solid black;"></canvas>
+
+  <script src="myplotlib.js"></script>
+  <script>
+    const plotter = new XYPlotter("myCanvas");
+    plotter.transformXY();  // Set axis scale
+
+    const numPoints = 500;
+    const xPoints = [];
+    const yPoints = [];
+
+    for (let i = 0; i < numPoints; i++) {
+      xPoints.push(Math.random() * 10); // match xMax
+      yPoints.push(Math.random() * 10); // match yMax
+    }
+
+    plotter.plotPoints(numPoints, xPoints, yPoints, "blue");
+  </script>
+</body>
+</html>

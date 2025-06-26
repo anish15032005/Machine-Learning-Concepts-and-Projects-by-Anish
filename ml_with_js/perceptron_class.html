@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Perceptron Classification</title>
+  <script src="myplotlib.js"></script>
+  <style> body { background: black; margin: 0; } </style>
+</head>
+<body>
+  <canvas id="myCanvas" width="500" height="500" style="border:1px solid white"></canvas>
+
+<script>
+// === Step 1: Setup ===
+const canvasId = "myCanvas";
+const plotter = new XYPlotter(canvasId);
+plotter.transformXY();
+const xMax = plotter.xMax;
+const yMax = plotter.yMax;
+const xMin = plotter.xMin;
+const yMin = plotter.yMin;
+
+const numPoints = 500;
+const xPoints = [];
+const yPoints = [];
+const labels = [];
+
+function f(x) { return 1.2 * x + 50; } // Ground truth line
+
+// === Step 2: Generate Dataset ===
+for (let i = 0; i < numPoints; i++) {
+  const x = Math.random() * xMax;
+  const y = Math.random() * yMax;
+  xPoints.push(x);
+  yPoints.push(y);
+  labels.push(y > f(x) ? 1 : 0); // 1: above line
+}
+
+// === Step 3: Train Perceptron ===
+let weights = [Math.random(), Math.random()];
+let bias = Math.random();
+const lr = 0.0001;
+const epochs = 10;
+
+function predict(x, y) {
+  const sum = weights[0] * x + weights[1] * y + bias;
+  return sum >= 0 ? 1 : 0;
+}
+
+for (let epoch = 0; epoch < epochs; epoch++) {
+  for (let i = 0; i < numPoints; i++) {
+    const x = xPoints[i];
+    const y = yPoints[i];
+    const target = labels[i];
+    const output = predict(x, y);
+    const error = target - output;
+
+    weights[0] += lr * error * x;
+    weights[1] += lr * error * y;
+    bias += lr * error;
+  }
+}
+
+// === Step 4: Plot Final Result ===
+plotter.clear();
+plotter.plotLine(xMin, f(xMin), xMax, f(xMax), "white"); // True Line
+
+for (let i = 0; i < numPoints; i++) {
+  const x = xPoints[i];
+  const y = yPoints[i];
+  const prediction = predict(x, y);
+  const color = prediction === 1 ? "black" : "red";
+  plotter.plotPoint(x, y, color);
+}
+</script>
+</body>
+</html>
+<!-- This code sets up a perceptron classification example using JavaScript and HTML. -->

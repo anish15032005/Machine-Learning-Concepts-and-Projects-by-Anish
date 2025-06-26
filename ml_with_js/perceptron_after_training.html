@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Perceptron Classification</title>
+  <script src="myplotlib.js"></script>
+  <style> body { background: white; margin: 0; } </style>
+</head>
+<body>
+  <canvas id="myCanvas" width="500" height="500" style="border:1px solid black"></canvas>
+
+<script>
+//training data
+let weights = [Math.random(), Math.random()];  // [w1, w2]
+let bias = Math.random();
+const lr = 0.0001;  // Learning rate
+const epochs = 10;
+
+function predict(x, y) {
+  const sum = weights[0] * x + weights[1] * y + bias;
+  return sum >= 0 ? 1 : 0;
+}
+
+for (let epoch = 0; epoch < epochs; epoch++) {
+  for (let i = 0; i < numPoints; i++) {
+    const x = xPoints[i];
+    const y = yPoints[i];
+    const target = labels[i];
+    const prediction = predict(x, y);
+    const error = target - prediction;
+
+    // Update rule
+    weights[0] += lr * error * x;
+    weights[1] += lr * error * y;
+    bias += lr * error;
+  }
+}
+//plotting after training
+plotter.clear();  // Clear canvas
+plotter.plotLine(xMin, f(xMin), xMax, f(xMax), "white");  // Ground truth line
+
+for (let i = 0; i < numPoints; i++) {
+  const x = xPoints[i];
+  const y = yPoints[i];
+  const output = predict(x, y);  // Use trained model
+  const color = output === 1 ? "black" : "red";
+  plotter.plotPoint(x, y, color);
+}
+
+</script>
+</body>
+</html>
